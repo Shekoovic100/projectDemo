@@ -1,5 +1,6 @@
 Details: 
 
 - add name func
+- add name func modified
 - create func 
 - 
